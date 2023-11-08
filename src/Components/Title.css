@@ -1,0 +1,36 @@
+h1 {
+    font-size: 4.2em;
+    line-height: 115.2px;
+    font-weight: 400;
+    font-family: 'Balsamiq Sans';
+    padding-left: 1em;
+  }
+  @media only screen and (max-width: 400px)  {
+    :root {
+      color: #000000;
+      background-color: #EBFBFD;
+    }
+    h1 {
+      font-size: 2.6em;
+      line-height: 50.4px;
+      font-weight: 400;
+      font-family: 'Balsamiq Sans';
+      text-align: center;
+      padding-left: 0;
+    }
+  }
+  @media only screen and (max-width: 600px)  {
+    :root {
+      color: #000000;
+      background-color: #EBFBFD;
+    }
+    h1 {
+      font-size: 2.6em;
+      line-height: 50.4px;
+      font-weight: 400;
+      font-family: 'Balsamiq Sans';
+      text-align: center;
+      padding-left: 0;
+    }
+  }
+  
